@@ -1,0 +1,1 @@
+console.log("Hi, I am Amar and I am beginning to code in Javascript");
